@@ -1,3 +1,3 @@
 # myrepo
-my first repo
-A line I wrote on my local computer
+Hello, this is my first repository!
+
